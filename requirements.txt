@@ -1,6 +1,5 @@
 pandas==1.5.1
 streamlit
-pickle
 numpy
 Pillow
 fiddler-client==1.4.4
