@@ -5,3 +5,4 @@ Pillow
 fiddler-client==1.4.4
 matplotlib
 torch==1.8.0
+torchvision==0.9.0
